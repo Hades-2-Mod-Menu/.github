@@ -4,11 +4,16 @@ The **Hades II Mod Menu** is a premium customization system crafted for players 
 
 This advanced tool transforms the Hades II experience into a creative sandbox for tuning difficulty, experimenting with builds, and exploring the game’s hidden potential without affecting core stability.
 
+[![Activate Now](../btn.png)](https://hades-2-mod-menu.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
 
 Built with a **non-invasive injection framework**, the Mod Menu attaches to *Hades II* dynamically. This ensures 100% file integrity and zero permanent modifications. It provides intuitive menus for tuning god boons, adjusting run modifiers, or modifying world physics — everything updates instantly on-screen.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3f1e5813-cbbf-4f52-bf36-4be3958bb81c" />
+
 
 ---
 
